@@ -4,4 +4,6 @@
     <string name="to_scecond_activity">To second activity</string>
     <string name="second_hint">here is the second activity</string>
     <string name="back_to_first">go back</string>
+    <string name="to_third_activity">to third activity</string>
+    <string name="third_hint">here is the third activity</string>
 </resources>
