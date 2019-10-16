@@ -3,4 +3,5 @@
     <string name="first_hint">here is the first activity</string>
     <string name="to_scecond_activity">To second activity</string>
     <string name="second_hint">here is the second activity</string>
+    <string name="back_to_first">go back</string>
 </resources>
